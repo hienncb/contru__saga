@@ -1,0 +1,3 @@
+//user
+export const LOADING_TODAY_MUSIC = 'LOADING_TODAY_MUSIC'
+
